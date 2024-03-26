@@ -3,7 +3,7 @@ clc;close all;clear all;
 %#####  find dynamic edge curve equation: Mohammad Doostaran ####
 %#####  All rights reserved          m.doostaran@gmail.com   ####
 %################################################%###############
-%#####  JUST EDIT hera  #########################%###############
+%#####  JUST EDIT here  #########################%###############
 Adss    = 'Vid\';                  %# Address of video folder
 Vinme   = 'test.mp4';              %# name of video
 VarName = 'sup';                   %# Name of Group Data
